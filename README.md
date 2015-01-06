@@ -12,6 +12,7 @@ To help us, fork the repository and clone it.
 
 ## Coding
 To install dependences, run:
+
 $ npm install
 
 $ bower install
