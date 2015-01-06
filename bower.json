@@ -1,0 +1,36 @@
+{
+  "name": "Gaia-Music-Player",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aron-bordin/Gaia-Music-Player",
+  "authors": [
+    "Aron Bordin <aron.bordin@gmail.com>"
+  ],
+  "description": "Gaia - HTML5 Mozilla music player",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "html5",
+    "css3",
+    "js",
+    "music",
+    "player",
+    "mozilla"
+  ],
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Bootflat": "2.0.4",
+    "angular": "1.2.28",
+    "bootstrap": "3.3.1",
+    "jquery": "2.1.3",
+    "angular-gettext": "~2.0.0"
+  }
+}

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: index.html:71
+msgid "About"
+msgstr ""
+
+#: index.html:65
+msgid "About <span class=\"caret\"></span>"
+msgstr ""
+
+#: index.html:46
+msgid "Exit"
+msgstr ""
+
+#: index.html:39
+msgid "File <span class=\"caret\"></span>"
+msgstr ""
+
+#: index.html:83
+msgid "Hello Wordl"
+msgstr ""
+
+#: index.html:67
+msgid "Homepage"
+msgstr ""
+
+#: index.html:44
+msgid "Import folder"
+msgstr ""
+
+#: index.html:69
+msgid "Licenses"
+msgstr ""
+
+#: index.html:42
+msgid "New playlist"
+msgstr ""
+
+#: index.html:54
+msgid "Next"
+msgstr ""
+
+#: index.html:41
+msgid "Open playlist"
+msgstr ""
+
+#: index.html:52
+msgid "Play"
+msgstr ""
+
+#: index.html:50
+msgid "Playback <span class=\"caret\"></span>"
+msgstr ""
+
+#: index.html:55
+msgid "Previous"
+msgstr ""
+
+#: index.html:58
+msgid "Repeat"
+msgstr ""
+
+#: index.html:77
+msgid "Search"
+msgstr ""
+
+#: index.html:57
+msgid "Shuffle"
+msgstr ""
+
+#: index.html:61
+msgid "Volume down"
+msgstr ""
+
+#: index.html:60
+msgid "Volume up"
+msgstr ""
